@@ -42,8 +42,8 @@ The following are some of the projects that I completed while I was at Makers Ac
 - RSpec, Jasmine
 - Mentored a student in the junior cohort
 
-| Best Practices | Web Languages | Mobile Languages | Frameworks | BDD Testing Frameworks | DataBases | PaaS | IDE |
-|----------------|---------------|------------------|---------------------|------------------------|-----------|------|-----|
+| Best Practices | Web Languages | Mobile Languages | Frameworks | BDD Testing Frameworks | DataBases | PaaS | IDE | Animation Frameworks
+|----------------|---------------|------------------|---------------------|------------------------|-----------|------|-----|-------------|
 | SOLID | Ruby | Swift 3 | Rails | Rspec| PostgreSQL | Heroku | Xcode
 | MVC | JavaScript || Sinatra | Jasmine| || ||
 | Agile | JQuery |
