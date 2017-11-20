@@ -44,11 +44,12 @@ The following are some of the projects that I completed while I was at Makers Ac
 
 | Best Practices | Web Languages | Mobile Languages | Frameworks | BDD Testing Frameworks | DataBases | PaaS | IDE | Animation Frameworks
 |----------------|---------------|------------------|---------------------|------------------------|-----------|------|-----|-------------|
-| SOLID | Ruby | Swift 3 | Rails | Rspec| PostgreSQL | Heroku | Xcode
-| MVC | JavaScript || Sinatra | Jasmine| || ||
-| Agile | JQuery |
-| TDD |
+| XP | Ruby | Swift 3 | Rails | Rspec| PostgreSQL | Heroku | Xcode
+| Agile | JavaScript || Sinatra | Jasmine| || ||
+| TDD | JQuery |
 | Pairing |
+| MVC |
+
 
 #### Bombay Board
 
