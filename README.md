@@ -46,7 +46,7 @@ The following are some of the projects that I completed while I was at Makers Ac
 |----------------|---------------|------------------|---------------------|------------------------|-----------|------|-----|
 | SOLID | Ruby | Swift 3 | Rails | Rspec| PostgreSQL | Heroku | Xcode
 | MVC | JavaScript || Sinatra | Jasmine| || ||
-| Agile | CSS3 |
+| Agile | JQuery |
 | TDD |
 | Pairing |
 
