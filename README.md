@@ -43,7 +43,7 @@ The following are some of the projects that I completed while I was at Makers Ac
 - Mentored a student in the junior cohort
 
 | Best Practices | Web Languages | Mobile Languages | Frameworks | BDD Testing | DataBases | PaaS | IDE | Animation |
-|----------------|---------------|------------------|---------------------|------------------------|-----------|------|
+|----------------|---------------|------------------|---------------------|------------------------|-----------|
 | XP | Ruby | Swift 3 | Rails | Rspec| PostgreSQL | Heroku | Xcode
 | Agile | JavaScript || Sinatra | Jasmine| || ||
 | TDD | JQuery |
