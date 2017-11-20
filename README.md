@@ -57,7 +57,7 @@ The following are some of the projects that I completed while I was at Makers Ac
 - Diploma in Hotel Management
 - Birbeck College modules in Introduction to Web Authoring
 
-# <a name="Experience">Experience</a>
+## <a name="Experience">Experience</a>
 
 **Humres** (1995 to 2004)    
 Founded and managed a recruitment(headhunting) firm. 20+ consultants when I left. Left to start a family
