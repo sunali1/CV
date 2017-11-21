@@ -17,7 +17,7 @@ Setting up a recruitment specific CRM.
 
 #### Resourceful
 
-At Makers Academy my final project was a game development, a completely new coding territory. Researched and by day two presented to the rest of the team the tech stack to use, researched and bought a good tutorial on Udemy and setup everyone to use it.
+At Makers Academy my final project was a game development, a completely new coding territory. Researched and by day two presented to the rest of the team the tech stack to use, then researched to find the best tutorial to use for the everyone in the team. 
 
 ## <a name="projects">Projects</a>  
 
