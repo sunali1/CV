@@ -11,9 +11,9 @@ I am looking for a junior developer role. I would like to work in a challenging 
 #### Understand how business side of things work.
 
 Founded a headhunting company with a partner, managed all the business operations side of things.
-Accounts, Invoicing, Budgets
-IT infrastructure
-Setting up a recruitment specific CRM
+Accounts, Invoicing, Budgets.
+IT infrastructure.
+Setting up a recruitment specific CRM. 
 
 #### Resourceful
 
