@@ -17,11 +17,11 @@ Setting up a recruitment specific CRM.
 
 #### Resourceful
 
-At Makers Academy my final project was a game development, a completely new coding territory. Researched and by day two presented to the rest of the team the tech stack to use, then researched to find the best tutorial to use for the everyone in the team. 
+At Makers Academy my final project was a game development, a completely new coding territory. Researched and by day two presented to the rest of the team the tech stack to use, then researched to find the best tutorial to use for the team.
 
 ## <a name="projects">Projects</a>  
 
-The following are some of the projects that I completed while I was at Makers Academy. They have been left relatively unchanged to demonstrate progression.
+The following are some of the projects that I completed while I was at Makers Academy. 
 
 | Project | Summary | Technologies |
 |----------|----------|----------|
