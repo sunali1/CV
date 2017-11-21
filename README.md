@@ -13,11 +13,11 @@ I am looking for a junior developer role. I would like to work in a challenging 
 Founded a headhunting company with a partner, managed all the business operations side of things.
 Accounts, Invoicing, Budgets.
 IT infrastructure.
-Setting up a recruitment specific CRM. 
+Setting up a recruitment specific CRM.
 
 #### Resourceful
 
-At Makers Academy the final project which was a game development, a completely new coding territory. Reasearched and by day two presented to the rest of the team the tech stack to use, researched and bought a good tutorial on Udemy and setup everyone to use it.
+At Makers Academy my final project was a game development, a completely new coding territory. Researched and by day two presented to the rest of the team the tech stack to use, researched and bought a good tutorial on Udemy and setup everyone to use it.
 
 ## <a name="projects">Projects</a>  
 
