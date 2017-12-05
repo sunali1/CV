@@ -49,13 +49,13 @@ Makers Acacdemy is a 12-week intensive bootcamp. Its instilled in me independent
 * RSpec, Jasmine
 * Mentored a student in the junior cohort
 
-| Best Practices | Web & Mobile Languages | Frameworks | BDD Testing | DataBases  | PaaS | IDE, Animation |
-| -------------- | ------------- | ---------------- | ---------- | ----------- | ---------- | ------ | -------------- |
-| XP             | Ruby          |    Rails      | Rspec       | PostgreSQL | Heroku | Xcode          |
-| Agile          | JavaScript    |    Sinatra    | Jasmine     |            |        | SpriteKit      |
-| TDD            | JQuery        |               |            |             |            |         SceneKit       |
-| Pairing        | Swift 3
-| MVC            |
+| Best Practices | Web & Mobile Languages | Frameworks | BDD Testing | DataBases  | PaaS   | IDE, Animation |
+|----------------|------------------------|------------|-------------|------------|--------|----------------|
+| XP             | Ruby                   | Rails      | Rspec       | PostgreSQL | Heroku | Xcode          |
+| Agile          | JavaScript             | Sinatra    | Jasmine     |            |        | SpriteKit      |
+| TDD            | JQuery                 |            |             |            |        | SceneKit       |
+| Pairing        | Swift 3                |            |             |            |        |                |
+| MVC            |                        |            |             |            |        |                |   |
 
 
 
